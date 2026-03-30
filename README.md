@@ -62,7 +62,8 @@ Open the image files inside `task-1-presentation/` and `task-2-portfolio/` and `
 ---
 
 ## Google Form – Digital Literacy Quiz (Task 3)
-[Click here to access the Digital Literacy Awareness Quiz](https://forms.google.com) *(replace with your actual form link)*
+[Click here to access the Digital Literacy Awareness Quiz ] 
+( https://forms.gle/fGxak86WwJiynKCE7 )
 
 ---
 
@@ -73,5 +74,6 @@ Open the image files inside `task-1-presentation/` and `task-2-portfolio/` and `
 - **Year:** 1st Year (2025–2026)
 - **Institution:** VIT Bhopal University
 - **Course:** Digital Literacy (NGMC) – VITyarthi
-- **GitHub:** [github.com/Steeverex](https://github.com/Steeverex)
+- **GitHub:**
+- ( https://github.com/steeve25bai11129-debug )
 
