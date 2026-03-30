@@ -64,7 +64,7 @@ Open the image files inside `task-1-presentation/` and `task-2-portfolio/` and `
 ## Google Form – Digital Literacy Quiz (Task 3)
 [Click here to access the Digital Literacy Awareness Quiz ] 
 
-(https://forms.gle/fGxak86WwJiynKCE7 )
+(https://forms.gle/fGxak86WwJiynKCE7)
 
 ---
 
